@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "com.example.navigation.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.navigation.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/layout_movie_layout.xml.flat",
+        "source": "com.example.navigation.app-main-51:/layout/movie_layout.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_github_logo.jpeg.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/github_logo.jpeg"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_border.xml.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/border.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_amazon_logo.jpg.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/amazon_logo.jpg"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_logo_sdu.png.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/logo_sdu.png"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/layout_fragment_movies.xml.flat",
+        "source": "com.example.navigation.app-main-51:/layout/fragment_movies.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_google_logo.jpg.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/google_logo.jpg"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/navigation_nav_graph.xml.flat",
+        "source": "com.example.navigation.app-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/layout_fragment_inbox.xml.flat",
+        "source": "com.example.navigation.app-main-51:/layout/fragment_inbox.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_microsoft_logo.jpeg.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/microsoft_logo.jpeg"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_themazerunner.jpeg.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/themazerunner.jpeg"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/layout_email_layout.xml.flat",
+        "source": "com.example.navigation.app-main-51:/layout/email_layout.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_pinterest_logo.png.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/pinterest_logo.png"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.navigation.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/xml_backup_rules.xml.flat",
+        "source": "com.example.navigation.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_sdu_library.png.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/sdu_library.png"
+    },
+    {
+        "merged": "com.example.navigation.app-merged_res-49:/drawable_no_profile.png.flat",
+        "source": "com.example.navigation.app-main-51:/drawable/no_profile.png"
+    }
+]

@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color grey
+color white
+drawable border
+drawable divergent
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable inception
+drawable themazerunner
+drawable therednotice
+id movieImage
+id movieTitle
+id moviesList
+id title
+layout activity_main
+layout movie_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string movie_cover_image
+style Base.Theme.Movies
+style RoundedCorners
+style Theme.Movies
+xml backup_rules
+xml data_extraction_rules

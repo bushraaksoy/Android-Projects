@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.navigation.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.example.navigation.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-mergeDebugResources-48:/layout/fragment_inbox.xml",
+        "source": "com.example.navigation.app-main-51:/layout/fragment_inbox.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-mergeDebugResources-48:/layout/fragment_movies.xml",
+        "source": "com.example.navigation.app-main-51:/layout/fragment_movies.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-mergeDebugResources-48:/layout/movie_layout.xml",
+        "source": "com.example.navigation.app-main-51:/layout/movie_layout.xml"
+    },
+    {
+        "merged": "com.example.navigation.app-mergeDebugResources-48:/layout/email_layout.xml",
+        "source": "com.example.navigation.app-main-51:/layout/email_layout.xml"
+    }
+]

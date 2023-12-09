@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\bbxsr\\.gradle\\daemon\\8.0\\com.example.practicerecycler.app-mergeDebugResources-31:\\layout\\item_layout.xml",
+        "source": "C:\\Users\\bbxsr\\.gradle\\daemon\\8.0\\com.example.practicerecycler.app-main-34:\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "com.example.practicerecycler.app-mergeDebugResources-31:/layout/item_layout.xml",
+        "source": "com.example.practicerecycler.app-main-34:/layout/item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bbxsr\\.gradle\\daemon\\8.0\\com.example.practicerecycler.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\bbxsr\\.gradle\\daemon\\8.0\\com.example.practicerecycler.app-main-34:\\layout\\activity_main.xml"
+    }
+]

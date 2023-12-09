@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="light_grey">#DCDCDC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">LoginRegistration</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <style name="Base.Theme.LoginRegistration" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.LoginRegistration" parent="Base.Theme.LoginRegistration"/>
+</resources>

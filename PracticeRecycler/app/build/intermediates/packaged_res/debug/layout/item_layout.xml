@@ -1,0 +1,62 @@
+<!-- item_layout.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/emailCard"
+    android:orientation="horizontal"
+    android:padding="16dp"
+    android:background="@drawable/border">
+
+    <androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="100dp">
+
+        <ImageView
+            android:id="@+id/emailProfilePic"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/no_profile"
+            android:contentDescription="profile pic"/>
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_weight="12">
+        <TextView
+            android:id="@+id/emailSender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SDU University"
+            android:textFontWeight="700"
+            android:textSize="20sp"/>
+        <TextView
+            android:id="@+id/emailSubject"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New information"/>
+        <TextView
+            android:id="@+id/emailContentPreview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Hello, this email is about"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/emailDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="24 Oct"
+            android:textColor="@color/grey"/>
+    </LinearLayout>
+
+</LinearLayout>

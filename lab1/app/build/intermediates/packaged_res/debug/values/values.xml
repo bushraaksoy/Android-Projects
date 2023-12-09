@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="buttonBackgroundColor">#082673</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_logo">App Logo</string>
+    <string name="app_name">Hello World 2</string>
+    <string name="login">Log in</string>
+    <string name="logo">logo</string>
+    <string name="password">Password</string>
+    <string name="title_name">Hello Worlddd!</string>
+    <string name="username">Username</string>
+    <style name="Base.Theme.HelloWorld2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.HelloWorld2" parent="Base.Theme.HelloWorld2"/>
+</resources>

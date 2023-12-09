@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#BBBBBB</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Navigation</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_cover_image">Movie cover image</string>
+    <style name="Base.Theme.Navigation" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="RoundedCorners" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">8dp</item>
+        <item name="cornerSizeTopRight">8dp</item>
+        <item name="color">@color/black</item>
+    </style>
+    <style name="Theme.Navigation" parent="Base.Theme.Navigation"/>
+</resources>

@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color grey
+color white
+drawable amazon_logo
+drawable border
+drawable github_logo
+drawable google_logo
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo_sdu
+drawable microsoft_logo
+drawable no_profile
+drawable pinterest_logo
+drawable sdu_library
+id emailCard
+id emailContentPreview
+id emailDate
+id emailProfilePic
+id emailSender
+id emailSubject
+id recyclerView
+layout activity_main
+layout item_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string hello_blank_fragment
+style Base.Theme.PracticeRecycler
+style Theme.PracticeRecycler
+xml backup_rules
+xml data_extraction_rules

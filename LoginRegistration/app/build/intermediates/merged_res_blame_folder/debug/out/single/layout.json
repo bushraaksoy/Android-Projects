@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.loginregistration.app-mergeDebugResources-30:/layout/activity_register.xml",
+        "source": "com.example.loginregistration.app-main-33:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.loginregistration.app-mergeDebugResources-30:/layout/activity_login.xml",
+        "source": "com.example.loginregistration.app-main-33:/layout/activity_login.xml"
+    }
+]
